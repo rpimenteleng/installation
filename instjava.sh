@@ -25,3 +25,4 @@ add-apt-repository ppa:webupd8team/java -y
 apt update -y
 apt install oracle-java8-installer -y
 
+export JAVA_HOME=/usr/lib/jvm/java-8-oracle/jre/
